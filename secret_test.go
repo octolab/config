@@ -13,7 +13,7 @@ import (
 	. "go.octolab.org/toolkit/config"
 )
 
-func TestSecret_Printing(t *testing.T) {
+func TestSecret(t *testing.T) {
 	type password struct {
 		XMLName struct{} `json:"-"        xml:"password"   yaml:"-"`
 		Value   Secret   `json:"password" xml:"value,attr" yaml:"password"`
