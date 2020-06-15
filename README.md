@@ -22,10 +22,10 @@ $ go get go.octolab.org/toolkit/config@latest
 
 made with ❤️ for everyone
 
-[build.page]:       https://travis-ci.org/octolab/config
-[build.icon]:       https://travis-ci.org/octolab/config.svg?branch=master
+[build.page]:       https://travis-ci.com/octolab/config
+[build.icon]:       https://travis-ci.com/octolab/config.svg?branch=master
 [coverage.page]:    https://codeclimate.com/github/octolab/config/test_coverage
-[coverage.icon]:    https://api.codeclimate.com/v1/badges/a24132a83a64657ce3fd/test_coverage
+[coverage.icon]:    https://api.codeclimate.com/v1/badges/74690018579316aa348a/test_coverage
 [design.page]:      https://www.notion.so/33715348cc114ea79dd350a25d16e0b0?r=0b753cbf767346f5a6fd51194829a2f3
 [docs.page]:        https://pkg.go.dev/go.octolab.org/toolkit/config
 [docs.icon]:        https://img.shields.io/badge/docs-pkg.go.dev-blue
