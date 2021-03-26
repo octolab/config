@@ -1,4 +1,4 @@
-> # 🧰 toolkit/config
+> # 🎛 config
 >
 > Configuration toolkit.
 
